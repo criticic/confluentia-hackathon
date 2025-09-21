@@ -6,6 +6,8 @@ Developed for the **Confluentia Hackathon (PS 3)**.
 
 Demo Link: [https://confluentia-hackathon-d426.streamlit.app/](https://confluentia-hackathon-d426.streamlit.app/)
 
+Demo Video: [https://drive.google.com/file/d/173VWAoLshVL5YD9GAOiOIX3JIjGZfB-D/view?usp=sharing](https://drive.google.com/file/d/173VWAoLshVL5YD9GAOiOIX3JIjGZfB-D/view?usp=sharing)
+
 ## Features
 
 - **Dynamic Data Source**: Upload your own CSV file for analysis.
