@@ -4,6 +4,8 @@ This project is an AI-powered assistant designed to streamline the day-to-day op
 
 Developed for the **Confluentia Hackathon (PS 3)**.
 
+Demo Link: [https://confluentia-hackathon-d426.streamlit.app/](https://confluentia-hackathon-d426.streamlit.app/)
+
 ## Features
 
 - **Dynamic Data Source**: Upload your own CSV file for analysis.
