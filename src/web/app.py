@@ -1,6 +1,14 @@
 """
 Main web interface for the AI Copilot for Data Teams.
 """
+import os
+import sys
+
+# Add the project root to Python path to enable absolute imports
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 import streamlit as st
 import pandas as pd
 import logging
