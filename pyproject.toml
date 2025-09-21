@@ -1,0 +1,23 @@
+[project]
+name = "confluentia-hackathon"
+version = "0.1.0"
+description = "An AI-powered assistant that reduces the manual effort required in day-to-day data team operations."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain>=0.3.27",
+    "langchain-google-genai>=2.1.12",
+    "langgraph>=0.6.7",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "streamlit>=1.49.1",
+    "watchdog>=6.0.0",
+    "tabulate>=0.9.0",
+    "sqlalchemy>=2.0.43",
+    "psycopg2-binary>=2.9.10",
+    "mysql-connector-python>=9.4.0",
+    "pymongo>=4.15.1",
+    "kaleido>=1.1.0",
+    "streamlit-local-storage>=0.0.25",
+]
